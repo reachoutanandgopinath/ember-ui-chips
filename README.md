@@ -1,6 +1,6 @@
 # ember-ui-chips
 
-[Short description of the addon.]
+Ember ui chips are the small component which can be customizable to have different Ui, icons and close buttons.
 
 
 ## Compatibility
